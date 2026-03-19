@@ -1,2 +1,2 @@
-helloWorld = print
-helloWorld("print")
+HelloWorld = print
+HelloWorld("print")
