@@ -1,1 +1,2 @@
-print("Hello World")
+helloWorld = print
+helloWorld("print")
